@@ -1,1 +1,2 @@
 /var/lib/docker/tmp/buildkit-mount*/build/libs
+/var/lib/docker/tmp/*
